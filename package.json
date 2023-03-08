@@ -1,8 +1,10 @@
 {
-  "name": "3dfolio",
+  "name": "apoorv-3d-web",
   "private": true,
   "version": "0.0.0",
+  "description": "Apoorv Ahluwalia Software Engineer ",
   "type": "module",
+  "homepage": "https://apoorv2402.github.io/apoorv-3d-web/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
