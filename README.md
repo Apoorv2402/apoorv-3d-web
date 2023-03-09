@@ -1,4 +1,4 @@
-# 3D Portfolio Website with Three.js and React.js
+# 3D Portfolio with Three.js and React.js
 ## Introduction
 3D Portfolio Website  
 
