@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "description": "Apoorv Ahluwalia Software Engineer ",
   "type": "module",
-  "homepage": "https://apoorv2402.github.io/apoorv-3d-web/",
+  "homepage": "https://apoorvahluwalia.com",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
